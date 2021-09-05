@@ -1,13 +1,23 @@
-# Insira aqui o nome do exercício
+# Nome Completo
 
-* 🖥️ Exercício: Insira aqui o nome da lista de atividades + nome do exercício
-* 🏫 Instituição: Insira aqui o nome da Instituição
-* ✨ Curso: Insira aqui o nome do Curso
-* 👨‍🏫 Orientador: Prof.: Insira aqui o nome do professor
-* 📖 Respositório dos exercícios: Se tiver, insira aqui o link da lista de exercícios
+* 🖥️ Exercício: Saída de dados e Strings (3) - Nome Completo
+* 🏫 Instituição: Etec Adolpho Berezin
+* ✨ Curso: Técnico em Informática
+* 👨‍🏫 Orientador: Prof.: Ermogenes & Prof.: Diego Neri
+* 📖 Respositório dos exercícios: https://github.com/ermogenes/aulas-programacao-csharp/blob/master/exercises/entrada-strings.md
   
 ## Enunciado
   
-Insira aqui a descrição do exercício
+Receba o nome e o sobrenome do usuário separadamente. Exiba o nome completo no formato padrão `Nome Sobrenome` e no formato de catálogo `SOBRENOME, Nome`.
 
-<h6 align="center">Made with by <a href="Link_do_seu_perfil_no_GitHub">Seu Nome</a></h6>
+Exemplo:
+
+```
+Digite seu primeiro nome: Ermogenes
+Digite seu sobrenome: Palacio
+
+Nome completo: Ermogenes Palacio
+Nome de catálogo: PALACIO, Ermogenes
+```
+
+<h6 align="center">Made with by <a href="https://github.com/LeoVanelli">Leandro Vanelli</a></h6>
